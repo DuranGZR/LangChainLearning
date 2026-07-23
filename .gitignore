@@ -2,5 +2,6 @@ SimpleMessages/.env
 SimpleChatBotWithMemory/.env
 VectorStoreIntro/.env
 RAGIntro/.env
+AgentsIntro/.env
 .venv/
 __pycache__/
