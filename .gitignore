@@ -3,5 +3,9 @@ SimpleChatBotWithMemory/.env
 VectorStoreIntro/.env
 RAGIntro/.env
 AgentsIntro/.env
+AgentsWithMemoryIntro/.env
+AdvancedRAG/.env
+AdvancedRAG/.chroma/
+AdvancedRAG/graph.png
 .venv/
 __pycache__/
